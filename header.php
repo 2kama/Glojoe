@@ -35,7 +35,7 @@
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item">
-        <a class="nav-link" href="#">DASHBOARD</a>
+        <a class="nav-link" href="dashboard">DASHBOARD</a>
       </li>
 
       <li class="nav-item dropdown">
@@ -43,8 +43,8 @@
           PATIENTS
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Register Patient</a>
-          <a class="dropdown-item" href="#">Search Patient</a>
+          <a class="dropdown-item" href="registration">Register Patient</a>
+          <a class="dropdown-item" href="patient_search">Search Patient</a>
           <a class="dropdown-item" href="#">Merge Patient</a>
         </div>
       </li>
